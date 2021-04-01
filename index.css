@@ -24,8 +24,8 @@ body {
 
 .bigItem {
   grid-area: 2 / 2 / 7 / 4;
-  height: 50%;
-  width: 50%;
-  justify-self: center;
-  align-self: center;
+  /*height: 50%;*/
+  /*width: 50%;*/
+  /*justify-self: center;*/
+  /*align-self: center;*/
 }
